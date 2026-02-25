@@ -70,7 +70,7 @@ mpicc archivo.c -o ejecutable
 
 Ejecución:
 
-mpirun -np `<n_procesos>`{=html} ./ejecutable
+mpirun -np `<n_procesos>` ./ejecutable
 
 ------------------------------------------------------------------------
 
