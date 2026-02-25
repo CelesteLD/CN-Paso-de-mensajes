@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/celeste/Desktop/MASTER2526/COMP-NUBE/paso-mensajes",
+      "program": "/Users/celeste/Desktop/MASTER2526/COMP-NUBE/paso-mensajes/build/Debug/outDebug"
+    }
+  ]
+}
